@@ -1,0 +1,12 @@
+The command to list files is "ls".
+The command to reverse the files listed by time order is "ls -rt".
+The command to list files with access time and permissions in reverse order is "ls -rtl"
+You would use the commands to organize files by date, time last used, and permissions in order to see what files you can use and what were used.
+cat [filename].txt | grep -i "string"
+grep -ai '[0-9]{3}-[0-9]{2}-[0-9]{4}' [filename] would be the command used to search for a SSN.
+grep -ai '[a-z]*@[a-z]*.[a-z]' [file] Is the command you would use to search for an email.
+grep -abif searchlist.txt image.disk1 > hits.txt could be used to search the contents of a disk for a string
+So you can search for files in a cloned drive.
+find .type f -exec file {} \; > ~/evid/filetype.list is the command to find files.
+find . | grep * .xls uis the command for finding an xls directory.
+
