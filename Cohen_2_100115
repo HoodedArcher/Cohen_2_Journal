@@ -1,0 +1,4 @@
+A file system is a method in which files are named and stored for later usage
+Inodes is a unix style file system it is a data structure used to represent a file system.
+Disk partitions are virtual segments used to reserve space for different functions.
+A journaling file system keeps track of changes to the file system by recording the intentions of the changes.
