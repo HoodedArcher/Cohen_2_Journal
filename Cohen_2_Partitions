@@ -1,0 +1,27 @@
+grep -abif searchterms.txt practical.floppy.dd > hits.txt
+Shows us the message from the 1337 computer hacker and outputs to hits.txt.
+
+cat hits.txt
+Brings up the output from our grep and contains the ransom note from the hacker.
+
+xxd -s 75441 practical.floppy.dd | less
+Shows us the exact binary location on the disk image where the ransom note is stored.
+
+fallocate -l 10M file.out
+Allocates 10mb to be partitioned.
+
+dd -h
+Shows you partition information.
+
+dd if=/dev/zero of=file.out
+Turns the allocated data into zeros.
+
+dd if=/dev/zero bs=1M count=10M of=file2.out
+Allocates more space on the disk image.
+
+xxd -a file.out 
+Displays all the zeros in file.out
+
+xxd -a practical.floppy.dd
+Displays the information in practical.floppy.dd
+
