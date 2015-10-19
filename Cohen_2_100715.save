@@ -1,0 +1,6 @@
+grep -abif searchterms.txt practical.floppy.dd > hits.txt
+Finds the hidden message from the 1337 computer hacker guy.
+
+cat hits.txt
+Displays the text file we have output to.
+xxd -s 75441 practical.floppy.dd | less

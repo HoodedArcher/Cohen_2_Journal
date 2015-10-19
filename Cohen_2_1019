@@ -1,0 +1,7 @@
+A disk image is an exact copy of a disk.
+You use DD to clone disks.
+A disk partition is a segment of a disk that is divided/reserved.
+You may partition a disk as much as you have space to do so.
+Each segment is usually used to store specific files to reduce clutter.
+You must organize your segments efficiently and reasonably to have a well working disk.
+
