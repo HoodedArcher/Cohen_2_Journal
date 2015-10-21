@@ -1,0 +1,3 @@
+Data Carving is a way to recover data. It allows users to recover data without
+file system allocation information by identifying clusters and sectors that belong to the file.
+It searches through raw sectors looking for specific file signatures.
