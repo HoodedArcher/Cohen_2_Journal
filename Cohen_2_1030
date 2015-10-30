@@ -1,0 +1,9 @@
+In digital forensics disk images are used widely for examining files without
+editing their last accessed date. It is important to due so to leave the 
+evidence un-tampered with.
+
+We use fallocate to create disks. A disk is created once it is given a
+set amount of memory it can be partitioned and written to.
+
+The OSI model is relative to the level of operation used on disk images.
+Mounting and Cloning through terminal operate on a lower OSI level.
