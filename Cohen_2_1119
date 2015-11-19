@@ -1,0 +1,10 @@
+    First we search for headers. We search for the header by using the command xxd.
+    Then we grep to find the line.
+    Using the value from that - we use echo and bc to convert hexidecimal to a decimal number.
+    For example, in the example from yesterday, we found the base and converted it to decimal using the command xxd.
+    Then to find the end of the file, we searched for ffd9 using the command xxd and piping to grep.
+    ******************************************************
+    Using that information, we find the number of bits, using the command echo and pipe bc by subtracting the start and end of the line.
+    Then using dd we can reconstruct the file using the command dd if=image_carve.raw of=carve.jpg skip=21156 bs=1 count=6610
+
+
