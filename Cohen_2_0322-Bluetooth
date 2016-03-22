@@ -1,0 +1,5 @@
+Bluetooth is a wireless method for sending data between devices.
+hciconfig is used to configure Bluetooth devices. hciconfig [-a] <hciX> [command [command parameters]]
+hcitool  is  used to configure Bluetooth connections and send some special command to Bluetooth devices. hcitool [-i <hciX>] [command [command parameters
+hcidump  reads raw HCI data coming from and going to a Bluetooth device. hcidump [option [option...]] [filter]
+
