@@ -1,0 +1,4 @@
+﻿You need to turn off automatic packet logging. That’s super illegal and not okay.
+
+
+WEP encryption is not safe but it does make it harder for rogue devices to listen to your activity. There is a WEP firewall and I heard that it used to be fairly secure.

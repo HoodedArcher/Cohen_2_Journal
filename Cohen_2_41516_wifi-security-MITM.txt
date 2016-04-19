@@ -1,0 +1,16 @@
+﻿DSniff – the first public implementation of MITM attacks against SSL and SSH
+Fiddler2 HTTP(S) diagnostic tool
+NSA impersonation of Google[12]
+Opendium Iceni Content-control software, used to perform inspection of HTTPS traffic at the gateway.
+Subterfuge – a framework to launch multiple MITM attacks
+Superfish malware
+Websense Content Gateway – used to perform inspection of SSL traffic at the proxy
+wsniff – a tool for 802.11 HTTP/HTTPS based MITM attacks
+        
+Cryptographic systems that are secure against MITM attack require an additional transfer of information or a secure channel. There are various defenses against MITM attack.
+        DNSSEC: Secure DNS extensions
+        Certificate pinning
+        Recorded media attestment
+        Latency examination
+        Quantum Cryptography
+PKI mutual authentication

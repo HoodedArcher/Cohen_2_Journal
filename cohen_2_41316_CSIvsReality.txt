@@ -1,0 +1,7 @@
+﻿Keeping up with current technology and methods complicate digital forensics. 
+The CSI effect creates unrealistic expectations for digital forensic investigators. 
+“Adobe Photoshop” & “CS Windows.2005” is a dead give away to what the data is for. 
+Check for data in a sector, no data, check again, if there’s data it’s not wiped continue until satisfied that there is no data.
+bulk_extractor, a high-performance stream-based feature extractor.
+DFXML — An XML language for doing computer forensics.
+DigitalCorpora.org is a website of digital corpora for use in computer forensics education research.
