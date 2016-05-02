@@ -1,0 +1,9 @@
+Google got in trouble for scanning network traffic with kismet.
+The software they used was kismet.
+They "mistakenly" recorded network traffic.
+I believe google did not make an honest mistake they should know the
+software well enough to know that kismet by default monitors and
+records network traffic. The files had even been opened by google and
+possibly decrypted somewhere else.
+
+
