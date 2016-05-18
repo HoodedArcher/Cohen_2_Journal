@@ -1,0 +1,24 @@
+
+
+What are 3 recommended wireless cards/chipsets for more advanced wireless applications? Finish the words: Ath___os, O____co, Ub_____i
+Atheros, 
+Why are these cards recommended?
+Most stable when working with linux
+What are special problems with the Broadcom chipset for advanced wireless? Why?
+It becomes exspensive to install something that would provide wireless connection at a better quality
+What are problems with Ralink?
+Slow connection or drop outs in the signal
+In Linux, how do you identify the chipset a dongle or card is using? [Hint: we've done it together on multiple days.]
+Type Ifconfig in terminal.
+What is Aircrack? What are its legal and illegal uses?
+Network software suite consisting of a detector, packet sniffer, WEP and WPA/WPA2-PSK cracker and analysis tool; illegal to log packets or crack encryption keys.
+What is airodump-ng? What does it do and what is it for?
+Used for packet capturing of raw 802.11 frames;	collects data for use with aircrack.
+What is aireplay-ng? What does it do and what is it for?
+Used to inject frames; it generates traffic for later use.
+What is a BSSID?
+The MAC address of the wireless access point.
+With regards to WEP - what is frame injection? How and why is it done?
+Injecting traffic into other people's traffic to incriminate someone.
+What does ARP stand for? How would one generate ARP packets on a network?
+Address Resolution Protocol; 

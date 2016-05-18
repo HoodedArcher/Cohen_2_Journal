@@ -1,0 +1,27 @@
+What do you see? What is it listing?
+Eth0 and lo	
+The address of the lan card and the loopback to talk with yourself.
+What is a 'kernel'?
+Computer program that constitutes the central core of a computer's operating system.
+How does a kernel relate to the operating system?
+If it's not up to date nothing else will be either.
+What does it show and what does it mean?
+It shows the current software
+What options do you have for kernels?
+avfs - virtual filesystem to access archives, disk images, remote locations
+binwalk - tool for searching binary images for embedded files and executable code
+cloud-utils - cloud image management utilities
+disktype - detection of content format of a disk or disk image
+dns323-firmware-tools - build and manipulate firmware images for a range of NAS devices
+libguestfs0 - guest disk image management system - shared library
+linux-image-4.0.0-kali1-amd64 - Linux 4.0 for 64-bit PCs
+linux-image-4.0.0-kali1-amd64-dbg - Debugging symbols for Linux 4.0.0-kali1-amd64
+linux-image-amd64 - Linux for 64-bit PCs (meta-package)
+linux-image-amd64-dbg - Debugging symbols for Linux amd64 configuration (meta-package)
+loadlin - loader (running under DOS) for LINUX kernel images
+mkelfimage - utility to create ELF boot images from Linux kernel images
+mknbi - Create tagged images for Etherboot or Netboot
+What happened? What is the purpose of this?
+the security was updated to stay more secure
+Do you see anything different for ifconfig or uname - either time in comparison to the start values at the beginning of the journal?
+the wireless dongle appeared in the list
