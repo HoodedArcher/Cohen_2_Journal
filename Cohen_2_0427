@@ -1,0 +1,6 @@
+How is WEP vulnerable?
+WEP protocol doesn't offer any key management which is one of the primary weaknesses.
+How might you notice if someone is trying to crack WEP on a network you monitor?
+Depending on the attack you might be receiving insane network traffic.
+How can you protect networks from WEP vulnerabilities?
+Try to mess with your keys but really just don't use WEP there's too many work arounds.
